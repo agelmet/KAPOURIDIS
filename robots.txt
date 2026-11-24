@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cars4holidays.gr/sitemap.xml

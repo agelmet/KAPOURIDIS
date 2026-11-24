@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/cars4holidays-icon.svg"
+ },
+ "source_md5": "281e38b187bded18653af3324bf77032",
+ "version": "92e9275f",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "6840a5d2f1cb46cd126bf05ea57e372a"
+ ],
+ "made": "2026-11-24"
+}
